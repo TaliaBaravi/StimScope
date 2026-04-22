@@ -191,7 +191,7 @@ export default function App() {
       <header className="app-header">
         <div>
           <p className="eyebrow">Quantum Error-Correction Circuit Viewer</p>
-          <h1>Stim Inspection Workspace</h1>
+          <h1>StimScope</h1>
         </div>
         <div className="header-stats">
           <span>{parsedCircuit.qubits.length} qubits</span>
