@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/circuitviewer.tsx","./src/components/inputpanel.tsx","./src/components/tickpanel.tsx","./src/lib/examplecircuits.ts","./src/lib/stimparser.ts","./src/types/stim.ts"],"version":"5.9.3"}
